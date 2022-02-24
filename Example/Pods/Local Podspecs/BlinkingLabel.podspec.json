@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of BlinkingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ravi Prajapat/BlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ravi Prajapat": "ravi.prajapat@lirisoft.com"
+  },
+  "source": {
+    "git": "https://github.com/Ravi Prajapat/BlinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BlinkingLabel/Classes/**/*"
+}
